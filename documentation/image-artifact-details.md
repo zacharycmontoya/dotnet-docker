@@ -164,7 +164,7 @@ of the GNU General Public License.
 
 ## Retrieving Base Image Pedigree Details
 
-.NET Core relies on the official Docker image repositories to provide detailed information about the images. This information includes layer information, source code, license information, etc. This information is stored in the [Official Images "Extended Information" repository](https://github.com/docker-library/repo-info) and is split into two types.
+.NET Core relies on the official Docker image repositories to provide detailed information about the images. This information includes layer information, source code, license information, etc. This information is stored in the [Official Images "Extended Information" repository](https://github.com/docker-library/repo-info) and is split into two types:
 
 * remote
   * gathered from the Docker Hub/Registry API
